@@ -1,0 +1,15 @@
+{
+  "SIMULATION": {
+    "OUTPUT": [
+      "flow_velocity",
+      "water_depth",
+	  "water_surface",
+	  "bottom_elevation"
+	],
+    "TIME": {
+      "end": 3500,
+      "out": 100,
+      "start": 0.0
+    }
+  }
+}
