@@ -11,6 +11,11 @@ In order to facilitate setting the input variables for *`BASEMENT`* simulation, 
 
 The `velocity` and `water depth` raster files are used in the Habitat Suitability Index (HSI) simulation. Initially, raster files are loaded and read as arrays. Afterwards, HSI value for each pixel is calculated using fuzzy logic. The universe variables and its membership functions are generated according to velocity and water depth. Then, fuzzy rules are applied based on expert knowledge to get HSI values. Finally, the calculated HSI for each pixel is converted to `GeoTIFF` raster format.
 
+This project was made by: 
+
+Yomer Cisneros Aguirre
+Diego Beramendi Ortega
+
 
 
 
